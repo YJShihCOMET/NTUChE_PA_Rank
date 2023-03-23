@@ -16,7 +16,7 @@
 
 # 編寫環境  
 
-| <font size=4> 語言/套件 </font> | <font size=4> 版本 </font> ||
+| <font size=4> 語言/套件 </font> | <font size=4> 版本 </font> |
 | :--------: | :--------: | :--------: |
 | <font size=4> Python </font>  | <font size=4> 3.10.2 </font>  |
 | <font size=4> JupyterLab </font>  | <font size=4> 3.2.9 </font>  |
