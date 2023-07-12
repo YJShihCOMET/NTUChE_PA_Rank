@@ -16,6 +16,7 @@
 # 更新日誌  
 <font size=8> 2023/3/23 </font>  
 > <font size=4> 1. set_20230323.xlsx: 2023/3/23以前大一的必修課並無計算機程式，set檔請用set.xlsx。但由於2023/3/23以後大一的必修課加入計算機程式，set檔請用set_20230323.xlsx</font>  
+
 <font size=8> 2023/7/12 </font>  
 > <font size=4> 1. 台大化工系學士班書卷獎排名計算GH.ipynb: 修正使用教學中沒有的資料夾圖示。</font>  
 
